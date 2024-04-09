@@ -16,7 +16,7 @@ html{
 }
 
 p{
-    color: rgb(85,85,85);
+    color: black;
 }
 
 /* TRANSITIONS */
@@ -49,10 +49,10 @@ a{
 }
 
 a:hover{
-    color:grey;
+    color:green;
     text-decoration:underline;
     text-underline-offset: 1rem;
-    text-decoration-color: rgb(181,181,181);
+    text-decoration-color: green;
 }
 
 .Logo{
@@ -107,6 +107,13 @@ a:hover{
     color: black;
     text-decoration: none;
     transition: all 0.3 ease-in-out;
+}
+
+.menu-links a:hover{
+   color:green;
+   text-decoration:underline;
+   text-underline-offset: 1rem;
+   text-decoration-color: green;
 }
 
 .menu-links li{
@@ -236,7 +243,7 @@ section{
     cursor:pointer;
     border: rgb(53,53,53);
     color: white;
-    background:rgb(0, 0, 0);
+    background:green;
  }
  
 
@@ -304,7 +311,7 @@ section{
  }
 
  .experience-sub-title{
-    color:rgb(85,85,85);
+    color:black;
     font-weight:600;
     font-size: 1.75rem;
     margin-bottom: 2rem;
