@@ -15,6 +15,7 @@ JavaScript- Used to add interactivity to the website, including animations and f
 Project Structure
 index.html- The main HTML file that serves as the entry point for the website.
 styles.css- The CSS file containing all the styling for the website.
+mediaqueries.css- CSS file containing styling for different screen sizes.
 script.js- The JavaScript file that handles interactivity and dynamic content.
 
 Clone the repository:
